@@ -48,9 +48,3 @@ def sos_settings():
 
             if__name__=='__main__':
                 app.run(debug=True)
-                          
-
-
-
-
-
